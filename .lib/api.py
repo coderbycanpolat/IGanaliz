@@ -102,7 +102,7 @@ def user_info(usrname):
 
 	banner()
 
-	print(f"{su}{re} user info")
+	print(f"{su}{re}----- KULLANICI BİLGİSİ -----")
 	for key, val in usrinfo.items():
 		print(f"  {gr}%s : {wh}%s" % (key, val))
 
