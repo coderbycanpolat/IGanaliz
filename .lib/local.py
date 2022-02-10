@@ -61,9 +61,9 @@ def banner():
  |___|_||_/__/\__\__,_| /_/ \_\_||_\__,_|_|_/__|
                                                 
  
-        {gr}Coded By Canpolat Gökkaya
+      {gr}Coded By Canpolat Gökkaya
         
-      {gr} Telegram: @androedit
+      {gr}Telegram: @androedit
 	            """)
 
 useragent = ['Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36',
