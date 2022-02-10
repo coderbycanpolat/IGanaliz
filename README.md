@@ -18,12 +18,8 @@
 
 * Bilgiler şunları içerir:
 
-* [ profil ] : kullanıcı kimliği, takipçiler / takip edilenler, yükleme sayısı, profil img URL'si, işletme numaralandırması, harici URL, Son zamanlarda katılanlar vb.
+* [ PROFİL BİLGİLERİ ] : kullanıcı kimliği, takipçiler / takip edilenler, yükleme sayısı, profil img URL'si, işletme numaralandırması, harici URL, Son zamanlarda katılanlar vb.
 
-* [ etiketler ve bahsedenler ] : en çok kullanılan hashtag'ler ve bahsedilen hesaplar
-
-* [e-posta]: herhangi bir yerde herhangi bir e-posta kullanılırsa, görüntülenecektir.
- 
 ----------------------------------------------------------------------------------------------------
 ## • İLETİŞİM 
 
